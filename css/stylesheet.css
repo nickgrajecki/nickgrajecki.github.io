@@ -3,7 +3,6 @@
 figure.snip1104 {
   font-family: "Raleway", Arial, sans-serif;
   position: relative;
-  overflow: hidden;
   width: 100%;
   background: #000000;
   color: #ffffff;
@@ -133,13 +132,11 @@ figure.snip1104.hover:before {
 .sentence {
   text-align: left;
   font-size: 4vmax;
-  white-space: nowrap;
 }
 
 .wrapper {
   position: relative;
-  width: 80%;
-  overflow-x: auto;
+  width: 100%;
 }
 
 .slidingVertical {
@@ -151,7 +148,6 @@ figure.snip1104.hover:before {
   -webkit-animation: topToBottom 12.5s linear infinite 0s;
   color: #e7c75e;
   opacity: 0;
-  overflow: hidden;
   position: absolute;
 }
 .slidingVertical span:nth-child(2) {
@@ -261,14 +257,12 @@ figure.snip1104.hover:before {
 }
 
 body {
-  overflow-x: auto;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 p {
   line-height: 1.75;
-  overflow-x: hidden;
 }
 a {
   color: #5bbbff;
@@ -358,12 +352,9 @@ img::-moz-selection {
 }
 #mainNav {
   background-color: #212529;
-  overflow-x: hidden;
+
 }
 #mainNav .navbar-toggler {
-  white-space: nowrap;
-  overflow-x: hidden;
-  overflow: hidden;
   font-size: 12px;
   right: 0;
   padding: 13px;
@@ -429,7 +420,6 @@ img::-moz-selection {
   }
 }
 header.masthead {
-  overflow-x: auto;
   text-align: center;
   color: #fff;
   background-image: url(../img/header-bg.jpg);
