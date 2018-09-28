@@ -84,20 +84,20 @@ figure.snip1104.blue h2 {
   background: #0a212f;
 }
 
-figure.snip1104.red {
-  background: #581a14;
+figure.snip1104.green {
+  background: #3a801b;
 }
 
-figure.snip1104.red h2 {
-  background: #36100c;
+figure.snip1104.green h2 {
+  background: #2ba127;
 }
 
-figure.snip1104.yellow {
-  background: #7f5006;
+figure.snip1104.orange {
+  background: #299ec2;
 }
 
-figure.snip1104.yellow h2 {
-  background: #583804;
+figure.snip1104.orange h2 {
+  background: #e99f29;
 }
 
 figure.snip1104:hover img,
