@@ -3,6 +3,8 @@
 figure.snip1104 {
   font-family: "Raleway", Arial, sans-serif;
   position: relative;
+  float: left;
+  overflow: hidden;
   width: 100%;
   background: #000000;
   color: #ffffff;
