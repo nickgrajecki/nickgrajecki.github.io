@@ -146,9 +146,9 @@ figure.snip1104.hover:before {
   display: inline;
 }
 .slidingVertical span {
-  animation: topToBottom 16s ease infinite 0s;
-  -ms-animation: topToBottom 16s ease infinite 0s;
-  -webkit-animation: topToBottom 16s ease infinite 0s;
+  animation: topToBottom 16s ease infinite 2s;
+  -ms-animation: topToBottom 16s ease infinite 2s;
+  -webkit-animation: topToBottom 16s ease infinite 2s;
   color: #e7c75e;
   opacity: 0;
   position: absolute;
