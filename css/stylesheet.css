@@ -119,7 +119,6 @@ figure.snip1104.hover:before {
   transform: rotate(110deg) translateY(-150%);
 }
 
-/*GrayScale*/
 .column#grayscale img {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -176,7 +175,6 @@ figure.snip1104.hover:before {
   -webkit-animation-delay: 10s;
 }
 
-/*topToBottom Animation*/
 @-moz-keyframes topToBottom {
   0% {
     opacity: 0;
